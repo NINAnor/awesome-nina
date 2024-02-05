@@ -15,7 +15,7 @@ Curated list of resources and tools for GIS
 [A Cloud Optimized GeoTIFF (COG)](https://www.cogeo.org/) is a regular GeoTIFF file, aimed at being hosted on a HTTP file server, with an internal organization that enables more efficient workflows on the cloud. It does this by leveraging the ability of clients issuing ​HTTP GET range requests to ask for just the parts of a file they need.
 
 - [geotiff.js](https://geotiffjs.github.io/) is a small library to parse TIFF files for visualization or analysis including Cloud Optimized GeoTIFFs. It is written in pure JavaScript, and is usable in both the browser and node.js applications.
-- [TiTiler] is a set of python modules that focus on creating FastAPI application for dynamic tiling.
+- [TiTiler](https://devseed.com/titiler/) is a set of python modules that focus on creating FastAPI application for dynamic tiling.
 - [https://github.com/developmentseed/mosaicjson-spec](https://github.com/developmentseed/mosaicjson-spec)
 - [https://github.com/GeoTIFF/geotiff-palette](https://github.com/GeoTIFF/geotiff-palette)
 
