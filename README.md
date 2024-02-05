@@ -34,4 +34,7 @@ Curated list of resources and tools for GIS
 # Metadata
 - [PyCSW](https://pycsw.org/)
 - [PyGeoMeta](https://github.com/geopython/pygeometa)
-- 
+
+# MapLibre
+- [Spec](https://maplibre.org/maplibre-style-spec/)
+- [Maplibre COG](https://github.com/NINAnor/maplibre-gl-cog)
