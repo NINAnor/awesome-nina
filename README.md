@@ -4,7 +4,10 @@ Curated list of resources and tools for GIS
 # Tools
 - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats
 - [TiPG](https://github.com/developmentseed/tipg) - OGC Features and Tiles from PG database
-- [PyGEOAPI](https://docs.pygeoapi.io/en/stable/)
+- [PyGEOAPI](https://docs.pygeoapi.io/en/stable/) -  provides an API to geospatial data.
+- [Terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server, built with Flask and Rasterio 🌍
+- [TiTiler](https://devseed.com/titiler/) is a set of python modules that focus on creating FastAPI application for dynamic tiling.
+- [Martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 
 # Vectors
 - [PMTiles](https://docs.protomaps.com/pmtiles/) - PMTiles is a single-file archive format for pyramids of tiled data. A PMTiles archive can be hosted on a storage platform like S3, and enables low-cost, zero-maintenance map applications.
@@ -37,6 +40,7 @@ Curated list of resources and tools for GIS
 - [PyGeoMeta](https://github.com/geopython/pygeometa)
 
 # MapLibre
+MapLibre GL JS is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to **GPU-accelerated vector tile rendering**.
 - [Spec](https://maplibre.org/maplibre-style-spec/)
 - [Maplibre COG](https://github.com/NINAnor/maplibre-gl-cog)
 - [Maplibre style editor](https://maplibre.org/maputnik)
