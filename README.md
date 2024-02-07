@@ -18,6 +18,7 @@ Curated list of resources and tools for GIS
 - [TiTiler](https://devseed.com/titiler/) is a set of python modules that focus on creating FastAPI application for dynamic tiling.
 - [https://github.com/developmentseed/mosaicjson-spec](https://github.com/developmentseed/mosaicjson-spec)
 - [https://github.com/GeoTIFF/geotiff-palette](https://github.com/GeoTIFF/geotiff-palette)
+- [COGServer](https://github.com/rouault/cogserver) Expose any GDAL recognized raster file as a HTTP accessible on-the-fly COG
 
 ### Articles
 - [https://medium.com/@_VincentS_/do-you-really-want-people-using-your-data-ec94cd94dc3f](https://medium.com/@_VincentS_/do-you-really-want-people-using-your-data-ec94cd94dc3f) - In this post we will focus on Cloud Optimized GeoTIFF and other formats used by public dataset (AWS pds, Digitalglobe Opendata, …).
@@ -38,3 +39,4 @@ Curated list of resources and tools for GIS
 # MapLibre
 - [Spec](https://maplibre.org/maplibre-style-spec/)
 - [Maplibre COG](https://github.com/NINAnor/maplibre-gl-cog)
+- [Maplibre style editor](https://maplibre.org/maputnik)
