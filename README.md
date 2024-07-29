@@ -45,3 +45,22 @@ MapLibre GL JS is an open-source library for publishing maps on your websites or
 - [Spec](https://maplibre.org/maplibre-style-spec/)
 - [Maplibre COG](https://github.com/NINAnor/maplibre-gl-cog)
 - [Maplibre style editor](https://maplibre.org/maputnik)
+
+# ML
+
+## Data Annotation
+
+- [LabelStudio](https://labelstud.io/): Open source annotation software for all types of data and tasks.
+
+## Object detection
+
+- [Pytorch Wildlife](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md): model weights for detection of wild animals in camera trap pictures.
+- [Detectron2](https://github.com/facebookresearch/detectron2): Library providing SOTA models for object detection, segmentation algorithms. Maintained by Meta.
+
+## Acoustic 
+
+- [BEATs](https://github.com/microsoft/unilm/tree/master/beats): Model weights for SOTA acoustic classifier. There was a tensor shape error that was fixed [here](https://github.com/NINAnor/rare_species_detections)
+
+## Utils libraries
+
+- [Audiomentation](https://github.com/iver56/audiomentations): Provide lots of utilitary functions for audio data augmentation. Alternative to [torchaudio](https://pytorch.org/audio/stable/index.html).
