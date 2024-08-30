@@ -1,6 +1,15 @@
 # Awesome NINA
 Curated list of resources and tools used in NINA
 
+# Development
+## Tools
+- [MITM Proxy](https://mitmproxy.org/) - a proxy service that can intercept request/response between different containers, useful to debug
+- [DBeaver] - a GUI software that allows to connect to lot's of different databases (available on Firmaportalen)
+- [Nix](https://nixos.org/) - a CLI that allows to install different software without the need of administrator rights
+- [Bruno](https://www.usebruno.com/) - A FOSS postman alternative, all requests are saved on your filesystem and can be saved in git
+- [DuckDB](https://duckdb.org/) - A swiss-army knife for reading and manipuling data from different sources (Postgres, CSV, Excel, SQLServer, JSON, etc..), also has spatial support built-in
+
+
 # GIS
 ## Tools
 - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats
