@@ -5,10 +5,10 @@ Curated list of resources and tools used in NINA
 ## Tools
 - [MITM Proxy](https://mitmproxy.org/) - a proxy service that can intercept request/response between different containers, useful to debug
 - [DBeaver](https://dbeaver.io/) - a GUI software that allows to connect to lot's of different databases (available on Firmaportalen)
-- [Nix](https://nixos.org/) - a CLI that allows to install different software without the need of administrator rights
+- [Nix](https://nixos.org/manual/nix/stable) - a package manager without the need of administrator rights which ensures great reproduciblity
 - [Bruno](https://www.usebruno.com/) - A FOSS postman alternative, all requests are saved on your filesystem and can be saved in git
 - [DuckDB](https://duckdb.org/) - A swiss-army knife for reading and manipuling data from different sources (Postgres, CSV, Excel, SQLServer, JSON, etc..), also has spatial support built-in
-
+- [GNU parallel](https://www.gnu.org/software/parallel/man.html) build and execute shell command lines from standard input in parallel, with the ability of resuming jobs
 
 # GIS
 ## Tools
