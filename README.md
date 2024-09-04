@@ -9,6 +9,8 @@ Curated list of resources and tools used in NINA
 - [Bruno](https://www.usebruno.com/) - A FOSS postman alternative, all requests are saved on your filesystem and can be saved in git
 - [DuckDB](https://duckdb.org/) - A swiss-army knife for reading and manipuling data from different sources (Postgres, CSV, Excel, SQLServer, JSON, etc..), also has spatial support built-in
 - [GNU parallel](https://www.gnu.org/software/parallel/man.html) build and execute shell command lines from standard input in parallel, with the ability of resuming jobs
+## Libraries
+- [fsspec](https://github.com/fsspec/filesystem_spec) allows to open files and directories over [multiple protocols](https://filesystem-spec.readthedocs.io/en/latest/api.html#built-in-implementations) 
 
 # GIS
 ## Tools
@@ -56,6 +58,10 @@ MapLibre GL JS is an open-source library for publishing maps on your websites or
 - [Maplibre style editor](https://maplibre.org/maputnik)
 
 # ML
+
+## Preprocessing
+
+- [DVR Scan](https://github.com/Breakthrough/DVR-Scan) detect motion in videos
 
 ## Data Annotation
 
