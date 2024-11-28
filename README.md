@@ -14,6 +14,7 @@ Curated list of resources and tools used in NINA
 - [GNU parallel](https://www.gnu.org/software/parallel/man.html) build and execute shell command lines from standard input in parallel, with the ability of resuming jobs
 ## Libraries
 - [fsspec](https://github.com/fsspec/filesystem_spec) allows to open files and directories over [multiple protocols](https://filesystem-spec.readthedocs.io/en/latest/api.html#built-in-implementations) 
+- [hydra](https://hydra.cc/) config management system
 
 # GIS
 ## Tools
