@@ -26,6 +26,7 @@ Curated list of resources and tools used in NINA
 - [Martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 
 ## Vectors
+- [GeoParquet](https://geoparquet.org/) - Parquet-based spatial format
 - [PMTiles](https://docs.protomaps.com/pmtiles/) - PMTiles is a single-file archive format for pyramids of tiled data. A PMTiles archive can be hosted on a storage platform like S3, and enables low-cost, zero-maintenance map applications.
 
 ## Raster
