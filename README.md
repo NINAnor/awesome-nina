@@ -64,7 +64,7 @@ MapLibre GL JS is an open-source library for publishing maps on your websites or
 - [Maplibre COG](https://github.com/NINAnor/maplibre-gl-cog)
 - [Maplibre style editor](https://maplibre.org/maputnik)
 
-# ML
+# Machine learning (ML)
 
 ## Preprocessing
 
@@ -74,10 +74,24 @@ MapLibre GL JS is an open-source library for publishing maps on your websites or
 
 - [LabelStudio](https://labelstud.io/): Open source annotation software for all types of data and tasks.
 
-## Object detection
+## Computer vision
 
+**General**
+- [PyTorch](https://github.com/pytorch/pytorch): A flexible and powerful open-source machine learning framework widely used for deep learning applications, including computer vision and natural language processing.
+- [torchvision](https://pytorch.org/vision/stable/index.html): A part of the PyTorch project and delivers pre-trained and ready-to-use deep learning models for PyTorch.
+- [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/): Removes a lot of redundancy when using and fine-tuning pre-trained deep learning models with PyTorch.
+- [Torch Geo](https://github.com/microsoft/torchgeo): TorchGeo is a PyTorch domain library, similar to torchvision, providing datasets, samplers, transforms, and pre-trained models specific to geospatial data. Mainted by Microsoft.
+- [YOLO](https://docs.ultralytics.com/): Ultralytics YOLO is an efficient tool for working with computer vision and ML that can help train both object detection models.
+- [TensorBoard](https://github.com/tensorflow/tensorboard): A tool which provides a dashboard for the measurements and visualizations needed in the machine learning workflow. It enables tracking experiment metrics like loss and accuracy, visualizing the model graph, projecting embeddings to a lower dimensional space, and much more.
+
+**Object detection**
 - [Pytorch Wildlife](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md): model weights for detection of wild animals in camera trap pictures.
 - [Detectron2](https://github.com/facebookresearch/detectron2): Library providing SOTA models for object detection, segmentation algorithms. Maintained by Meta.
+
+ **Segmentation**
+ - [Segmentation models](https://github.com/qubvel-org/segmentation_models.pytorch): Python library with pre-trained deep learning models for Image Semantic
+Segmentation based on PyTorch
+
 
 ## Acoustic 
 
