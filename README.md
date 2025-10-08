@@ -5,6 +5,7 @@ Curated list of resources and tools used in NINA
 - [DBeaver](https://dbeaver.io/) - a GUI software that allows to connect to lot's of different databases (available on Firmaportalen)
 - [TAD](https://www.tadviewer.com/) - quick CSV/Parquet/SQLite viewer with filtering/sorting/grouping/pivoting capabilities
 - [rclone](https://rclone.org/) - copy/move/sync files between local/remote directories and/or cloud storage
+- [sling](https://docs.slingdata.io/) - copy tables (database, files) and transform data using SQL
 
 # Development
 ## Tools
