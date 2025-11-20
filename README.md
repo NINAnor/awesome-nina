@@ -18,6 +18,7 @@ Curated list of resources and tools used in NINA
 - [uv](https://docs.astral.sh/uv/) fast Python package and project manager (includes [uvx](https://docs.astral.sh/uv/concepts/tools/#tool-versions))
 - [DVC](https://dvc.org/) handles large files in a git repository acting as a better alternative to Git LFS, and provides additional capabilites for data scientists
 ## Libraries
+- [dlt](https://dlthub.com/docs/intro) loads data from various sources, such as REST API
 - [fsspec](https://github.com/fsspec/filesystem_spec) allows to open files and directories over [multiple protocols](https://filesystem-spec.readthedocs.io/en/latest/api.html#built-in-implementations) 
 - [hydra](https://hydra.cc/) config management system
 
