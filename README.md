@@ -23,6 +23,10 @@ Curated list of resources and tools used in NINA
 - [hydra](https://hydra.cc/) config management system
 
 # GIS
+
+## Courses/workshops
+- [CNG 2025: Earthmover Workshop](https://github.com/earth-mover/workshop-cng-2025-zarr) - Zarr, Icechunk, & Xarray for cloud-native geospatial data-cube analysis
+
 ## Tools
 - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats
 - [TiPG](https://github.com/developmentseed/tipg) - OGC Features and Tiles from PG database
