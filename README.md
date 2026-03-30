@@ -21,7 +21,8 @@ Curated list of resources and tools used in NINA
 - [dlt](https://dlthub.com/docs/intro) loads data from various sources, such as REST API
 - [fsspec](https://github.com/fsspec/filesystem_spec) allows to open files and directories over [multiple protocols](https://filesystem-spec.readthedocs.io/en/latest/api.html#built-in-implementations)
   - [universal-pathlib](https://universal-pathlib.readthedocs.io/en/latest/) provides a pathlib-like interface on top of fsspec
-- [hydra](https://hydra.cc/) config management system
+- [django-environ](https://django-environ.readthedocs.io/en/latest/) to handle environmental variables and `.env` files
+- [hydra](https://hydra.cc/) powerful config management system 
 
 # GIS
 
