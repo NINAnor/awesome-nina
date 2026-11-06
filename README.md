@@ -3,7 +3,6 @@ Curated list of resources and tools used in NINA
 
 # Tools
 - [DBeaver](https://dbeaver.io/) - a GUI software that allows to connect to lot's of different databases (available on Firmaportalen)
-- [TAD](https://www.tadviewer.com/) - quick CSV/Parquet/SQLite viewer with filtering/sorting/grouping/pivoting capabilities
 - [rclone](https://rclone.org/) - copy/move/sync files between local/remote directories and/or cloud storage
 - [sling](https://docs.slingdata.io/) - copy tables (database, files) and transform data using SQL
 
@@ -11,7 +10,6 @@ Curated list of resources and tools used in NINA
 ## Tools
 - [MITM Proxy](https://mitmproxy.org/) - a proxy service that can intercept request/response between different containers, useful to debug
 - [pixi](https://pixi.sh/latest/) - a package manager without the need of administrator rights, which relies on conda-forge, pypi, and other repositories
-- [Nix](https://nixos.org/manual/nix/stable) - a package manager without the need of administrator rights which ensures great reproduciblity (more complex and complete than pixi)
 - [Bruno](https://www.usebruno.com/) - A FOSS postman alternative, all requests are saved on your filesystem and can be saved in git
 - [DuckDB](https://duckdb.org/) - A swiss-army knife for reading and manipuling data from different sources (Postgres, CSV, Excel, SQLServer, JSON, etc..), also has spatial support built-in
 - [GNU parallel](https://www.gnu.org/software/parallel/man.html) build and execute shell command lines from standard input in parallel, with the ability of resuming jobs
